@@ -53,7 +53,7 @@ function output(x,y,ope)
     console.log(x1*y1);
   }
   else {
-    z=x1/x2;
+    z=x1/y1;
     document.querySelector('.ans').innerText=z;
     console.log(x1/y1);
   }
