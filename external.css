@@ -1,0 +1,29 @@
+body
+{
+  text-align: center;
+  background-color: #90303d;
+  color:black;
+}
+.heading
+{
+  font-size: 4rem;
+}
+input
+{
+  width:4rem;
+  height:4rem;
+  font-size: 20px;
+}
+table
+{
+  margin-left: 42%;
+}
+.ans
+{
+  margin-left: 638px;
+  width:206px;
+  height:2rem;
+  background-color: tan;
+  font-size: 25px;
+  text-align: right;
+}
